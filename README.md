@@ -5,7 +5,7 @@ Project in as part of course "INF554 - Machine and Deep Learning" at Ecole Polyt
 NLP classification, Transformers, BERT, LSTM, GNN, F1 score
 
 ## Summary
-The `Report.pdf` file and the `Slides - Presentation` file provide enough to sum up the work done to answer the data challenge.
+The `Report.pdf` file and the `Slides - Presentation.pdf` file provide enough to sum up the work done to answer the data challenge.
 
 ## Details about the code
 
